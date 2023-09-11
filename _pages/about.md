@@ -10,8 +10,8 @@ redirect_from:
 
 I'm a fourth year undergraduate student from [School of cs](https://cs.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.shu.edu.cn/) from [School of Computer Science](https://cs.shu.edu.cn/), Shanghai University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:nerv.wm.huang@outlook.com) / [Github](https://github.com/Uminan) / [Wechat](../images/wechat.png)
+[Email:nerv.wm.huang@outlook.com](mailto:nerv.wm.huang@outlook.com) / [Github](https://github.com/Uminan) / [Wechat](../images/Wechat.png)
