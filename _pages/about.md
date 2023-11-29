@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of cs](https://cs.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a fourth year undergraduate student from [School of CES](https://cs.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/). My research interest includes Sound Event Localization and Detection, Audio Enhancement and Audio-Visual.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Shanghai University. I was advised by [Prof. XX](https://XXX.shu.edu.cn/) from [School of Computer Science](https://cs.shu.edu.cn/), Shanghai University.
+I am very fortunate to be advised by [Prof.Huang](https://www.XXX.com/) from [School of Communication and Information Engineering](https://cs.shu.edu.cn/), Shanghai University. I was advised by [Prof.Ma](https://XXX.shu.edu.cn/) from [School of Computer Engineering and Science](https://cs.shu.edu.cn/), Shanghai University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 Email: [nerv.wm.huang@outlook.com](mailto:nerv.wm.huang@outlook.com) / [Github](https://github.com/Uminan) / [Wechat](../images/Wechat.png)
